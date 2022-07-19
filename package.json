@@ -1,0 +1,30 @@
+{
+  "name": "blog-nodejs",
+  "version": "1.0.0",
+  "description": "hoc nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuongnam406/blog-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "học",
+    "node",
+    "js",
+    "blog",
+    "nodejs"
+  ],
+  "author": "phuonganm406",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuongnam406/blog-nodejs/issues"
+  },
+  "homepage": "https://github.com/phuongnam406/blog-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
